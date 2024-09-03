@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Piyush Suthar
 - 👀 I’m interested in Building Projects
 - 🌱 I’m currently learning Reactjs, C++
-- 💞️ I’m looking to collaborate on javascript Open Source Projects
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 You can follow me on Twitter(X) for updates
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

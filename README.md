@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **React.js , Node,js & Express.js**
 
-- 🌱 I’m currently learning **ExpressJS , Web Sockets , Golang..** 
+- 🌱 I’m currently learning **NextJs , Web Sockets , Golang..** 
 
 - 👯 I’m looking to collaborate on **Javascript based Projects.**
 

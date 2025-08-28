@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Javascript based Projects.**
 
-- 👨‍💻 All of my projects are available at [https://bento.me/piyush-suthar](https://bento.me/piyush-suthar)
-
 - 💬 Ask me about **Javascript , React , Nodejs**
 
 - 📫 How to reach me **piyushsuthar524@gmail.com**

@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyush </h1>
 <h3 align="center">A Developer , Science & Tech geek</h3>
 
+![Uploading image.png…]()
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suthar345piyush&label=Profile%20views&color=0e75b6&style=flat" alt="suthar345piyush" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suthar345piyush" alt="suthar345piyush" /></a> </p>

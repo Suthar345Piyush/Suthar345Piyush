@@ -2,10 +2,10 @@ I am a full stack developer and an software engineer passionate about building f
 
 I am open for freelance projects and software developer roles. If you any work, just contact to me.
 
-Some Social Links:
+Social Links:
 - Email - piyushsuthar524@gmail.com
-- Portfolio - <Link href="https://piyushtwtz.vercel.app/"></Link>
-- X - <Link href="https://x.com/piyushtwtz"></Link>
-- Linkedin - <Link href="https://www.linkedin.com/in/piyush-suthar-641a0826a/"></Link>
+- Portfolio - https://piyushtwtz.vercel.app/
+- X - https://x.com/piyushtwtz
+- Linkedin - https://www.linkedin.com/in/piyush-suthar-641a0826a/
 
-I keep diving into engineering products and new technology and share my learnings on my X account, so do follow me there.
+I keep diving into engineering products and new technology and share my learnings on my X account, so do follow me there, all my projects are on github do check them out !!!

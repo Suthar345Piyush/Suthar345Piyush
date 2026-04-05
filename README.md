@@ -15,6 +15,6 @@ Social Links:
 - X - https://x.com/piyushtwtz
 - Linkedin - https://www.linkedin.com/in/piyush-suthar-641a0826a/
 
-- Latest project check it out - https://invoiceflw.vercel.app/
+- Check out my latest project - https://invoiceflw.vercel.app/
 
 I keep diving into engineering products and new technology and share my learnings on my X account, so do follow me there, all my projects are on github do check them out !!!

@@ -4,7 +4,7 @@ Currently learning golang to build efficient and scalable backend applications.
 
 Tech Stack:
 
-Nextjs, Reactjs, Typescript, Javascript, TailwindCSS, Supabase, PostgresQL, MaterialUi, ReactNative, Expo, Nodejs, Expressjs, C++, golang.
+Nextjs, Reactjs, Typescript, Javascript, TailwindCSS, Supabase, PostgresQL, MaterialUi, ReactNative, Expo, Nodejs, Expressjs, C++, Go.
 
 
 Open for freelance projects and software developer roles. If you have any work, just connect with me.
